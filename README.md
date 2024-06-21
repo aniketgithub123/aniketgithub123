@@ -12,9 +12,9 @@
 
 
 ### Glad to see you here!  
-Hi, I'm Aniket Kadam. I have completed Bachelor of Civil Engineering. I have honed my analytical skills and attention to detail. However, I found my true passion in IT industry and decided to transition my career by pursuing a Data Science Course. I have developed strong technical skills in data analysis tools like Excel, Power BI, MySQL, Python and Visualization. As a Civil engineer I have good mathematical and statistical skills which are most important for Data science.
+Hi, I'm Aniket Kadam. I hold a Bachelor’s degree in Civil Engineering, where I honed my analytical skills and attention to detail. However, I discovered my true passion in the IT industry and transitioned my career by pursuing a Data Science And Analytics Course. I have developed strong technical skills in data analysis tools like Excel, Power BI, MySQL, Python, and data visualization. My background in civil engineering has provided me with solid mathematical and statistical skills, which are essential for data science.
 
-Currently seeking new opportunities in the Data Science & Analytics. I am excited to leverage my skills and experience to help organizations derive insights from their data and drive business growth. With a passion for continuous learning and a proven track record of delivering results, I am confident that I can make a valuable contribution to any team.  
+Currently, I am seeking new opportunities in Data Science and Analytics. I am excited to use my skills and experience to help organizations derive insights from their data and drive business growth. With a passion for continuous learning and a proven track record of delivering results, I am confident that I can make a valuable contribution to any team.  
   
 
 <br/>  
@@ -35,7 +35,7 @@ Currently seeking new opportunities in the Data Science & Analytics. I am excite
   
   
 
-- 📫 How to reach me: You can reach me via email at [aniketkadam59397@gmail.com] or connect with me on [www.linkedin.com/in/aniket-kadam-4a2a03241]
+- ⚡ Fun fact: I’m an avid traveler and love exploring new cultures and cuisines. I also enjoy playing cricket.
 
   
   
@@ -45,8 +45,6 @@ Currently seeking new opportunities in the Data Science & Analytics. I am excite
 
 </td><td valign="top" width="50%">
 
-😄 Pronouns: He/Him
-  
 
 
 </td></tr></table>  
@@ -62,6 +60,8 @@ Currently seeking new opportunities in the Data Science & Analytics. I am excite
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
 </div>  
 
 <br/>  
@@ -84,7 +84,6 @@ Currently seeking new opportunities in the Data Science & Analytics. I am excite
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
 <br/>  
