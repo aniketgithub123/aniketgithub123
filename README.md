@@ -12,9 +12,9 @@
 
 
 ### Glad to see you here!  
-Hi, I'm Aniket Kadam. I hold a Bachelor’s degree in Civil Engineering, where I honed my analytical skills and attention to detail. However, I discovered my true passion in the IT industry and transitioned my career by pursuing a Data Science And Analytics Course. I have developed strong technical skills in data analysis tools like Excel, Power BI, MySQL, Python, and data visualization. My background in civil engineering has provided me with solid mathematical and statistical skills, which are essential for data science.
+Hi, I'm Aniket Kadam. I have completed Bachelor’s degree in Civil Engineering also i have done "Master in Data Science & Analytics with AI" Course. I have developed strong technical skills in data analysis tools like Excel, Power BI, MySQL, Python, and data visualization. My background in civil engineering has provided me with solid mathematical and statistical skills, which are essential for data science.
 
-Currently, I am seeking new opportunities in Data Science and Analytics. I am excited to use my skills and experience to help organizations derive insights from their data and drive business growth. With a passion for continuous learning and a proven track record of delivering results, I am confident that I can make a valuable contribution to any team.  
+Currently, I am seeking new opportunities in Data Science and Analytics. I am excited to use my skills and experience to help organizations derive insights from their data and drive business growth. With a passion for continuous learning and a proven track record of delivering results, I am confident that I can make a valuable contribution to any team. 
   
 
 <br/>  
