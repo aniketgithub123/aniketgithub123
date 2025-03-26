@@ -17,26 +17,7 @@ Hi, I'm Aniket Kadam. I have completed Bachelor’s degree in Civil Engineering 
 Currently, I am seeking new opportunities in Data Science and Analytics. I am excited to use my skills and experience to help organizations derive insights from their data and drive business growth. With a passion for continuous learning and a proven track record of delivering results, I am confident that I can make a valuable contribution to any team. 
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 👀 I’m interested in Data Science & Data Analysis, especially in Machine Learning, Data Visualization, and Predictive Analytics.
-  
-  
-
-- 🌱 I’m currently learning Machine Learning with Python, SQL for Data Analysis, and Advanced Data Visualization techniques.
-  
-  
-
-- 💞️ I’m looking to collaborate on projects involving data cleaning and preprocessing, building predictive models, and SQL-based data warehousing.
-  
-  
-
-- ⚡ Fun fact: I’m an avid traveler and love exploring new cultures and cuisines. I also enjoy playing cricket.
-
+<br/
   
   
 
@@ -67,16 +48,6 @@ Currently, I am seeking new opportunities in Data Science and Analytics. I am ex
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aniketgithub123&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
